@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Card2
+comment0.text=\n\ The\ card2\ class\ holds\ the\ main\ values\ for\ the\ cards\ including\ the\ image,\ \n\ if\ it's\ a\ painting\ and\ it's\ paintingId\n\ \n\ @author\ Rdsims@email.uscb.edu\ \n@version\ December\ 14th,\ 2023
+comment1.params=imageName\ isPainting\ uniqueId
+comment1.target=Card2(java.lang.String,\ boolean,\ int)
+comment1.text=\n\ Constructors\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Checks\ for\ the\ user\ mouse\ clicks\ and\ makes\ the\ value\ true,\ also\ retrieves\ the\ reference\ to\ it's\ respective\ world.\n
+comment3.params=
+comment3.target=void\ flipBack()
+comment4.params=
+comment4.target=java.lang.String\ getimageName()
+comment5.params=
+comment5.target=boolean\ isPainting()
+comment6.params=
+comment6.target=int\ getPaintingId()
+comment7.params=
+comment7.target=boolean\ isFlipped()
+numComments=8

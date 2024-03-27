@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\n\ This\ class\ is\ the\ text\ of\ the\ wardens\ voice\ once\ you\ start\ the\ game,\ in\ between\ levels\ and\ once\ you\ finish\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=text\ size\ time
+comment2.target=Text(java.lang.String,\ int,\ int)
+comment3.params=text\ size
+comment3.target=Text(java.lang.String,\ int)
+numComments=4

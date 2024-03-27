@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DialogueScreen
+comment0.text=\n\ Holds\ the\ warden\ and\ makes\ text\ as\ if\ he\ was\ speaking\ to\ you\n\ \n\ @author\ Rdsims@email.uscb.edu\ \n\ @version\ December\ 14th,\ 2023\n
+comment1.params=
+comment1.target=DialogueScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DialogeScreen.\n\ \n
+comment2.params=nfcEnabled
+comment2.target=DialogueScreen(boolean)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ DialogeScreen.\n\ \n
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
