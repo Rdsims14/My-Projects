@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\frmscheduleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:frmscheduleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\frmreschduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:frmreschduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\appschedular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:appschedular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmscheduleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:frmscheduleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\appschedular.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:appschedular.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsnewappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsnewappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\appschedular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:appschedular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\appointmentschedulerapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:appointmentschedulerapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsappointmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsappointmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmreschduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:frmreschduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsscheduledappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsscheduledappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\appointmentschedulerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:appointmentschedulerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\frmreschduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:frmreschduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsmodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsmodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsdbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsdbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsadvisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsadvisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clsadvisee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clsadvisee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\clssessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:clssessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|c:\\users\\rdsims\\onedrive - university of south carolina\\desktop\\b321finalproject\\appointmentschedulerapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB93E6B-9C3E-4A3E-8B29-956D3C255524}|AppointmentSchedulerApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSchedular.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.cs",
+              "RelativeDocumentMoniker": "AppSchedular.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.cs",
+              "RelativeToolTip": "AppSchedular.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAswJEBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:23:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReschduleForm.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.cs",
+              "RelativeDocumentMoniker": "frmReschduleForm.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.cs",
+              "RelativeToolTip": "frmReschduleForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:29:05.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmScheduleOverview.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmScheduleOverview.cs",
+              "RelativeDocumentMoniker": "frmScheduleOverview.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmScheduleOverview.cs",
+              "RelativeToolTip": "frmScheduleOverview.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1wAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:29:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmScheduleOverview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmScheduleOverview.cs",
+              "RelativeDocumentMoniker": "frmScheduleOverview.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmScheduleOverview.cs [Design]",
+              "RelativeToolTip": "frmScheduleOverview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:17:18.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSchedular.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.Designer.cs",
+              "RelativeDocumentMoniker": "AppSchedular.Designer.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.Designer.cs",
+              "RelativeToolTip": "AppSchedular.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:32:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSchedular.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.cs",
+              "RelativeDocumentMoniker": "AppSchedular.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppSchedular.cs [Design]",
+              "RelativeToolTip": "AppSchedular.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:06:19.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsNewAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsNewAppointment.cs",
+              "RelativeDocumentMoniker": "clsNewAppointment.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsNewAppointment.cs",
+              "RelativeToolTip": "clsNewAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:31:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentSchedulerApp",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppointmentSchedulerApp.csproj",
+              "RelativeDocumentMoniker": "AppointmentSchedulerApp.csproj",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppointmentSchedulerApp.csproj",
+              "RelativeToolTip": "AppointmentSchedulerApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T02:32:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsLocation.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsLocation.cs",
+              "RelativeDocumentMoniker": "clsLocation.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsLocation.cs",
+              "RelativeToolTip": "clsLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsAppointmentType.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAppointmentType.cs",
+              "RelativeDocumentMoniker": "clsAppointmentType.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAppointmentType.cs",
+              "RelativeToolTip": "clsAppointmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReschduleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.cs",
+              "RelativeDocumentMoniker": "frmReschduleForm.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.cs [Design]",
+              "RelativeToolTip": "frmReschduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:30:51.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsScheduledAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsScheduledAppointments.cs",
+              "RelativeDocumentMoniker": "clsScheduledAppointments.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsScheduledAppointments.cs",
+              "RelativeToolTip": "clsScheduledAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:13:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentSchedulerApp",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppointmentSchedulerApp.csproj",
+              "RelativeDocumentMoniker": "AppointmentSchedulerApp.csproj",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\AppointmentSchedulerApp.csproj",
+              "RelativeToolTip": "AppointmentSchedulerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T01:35:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmReschduleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.Designer.cs",
+              "RelativeDocumentMoniker": "frmReschduleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\frmReschduleForm.Designer.cs",
+              "RelativeToolTip": "frmReschduleForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:22:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsModality.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsModality.cs",
+              "RelativeDocumentMoniker": "clsModality.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsModality.cs",
+              "RelativeToolTip": "clsModality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:00:27.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsAdvisors.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAdvisors.cs",
+              "RelativeDocumentMoniker": "clsAdvisors.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAdvisors.cs",
+              "RelativeToolTip": "clsAdvisors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsAdvisee.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAdvisee.cs",
+              "RelativeDocumentMoniker": "clsAdvisee.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsAdvisee.cs",
+              "RelativeToolTip": "clsAdvisee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:35:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:00:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsDBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsDBUtil.cs",
+              "RelativeDocumentMoniker": "clsDBUtil.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsDBUtil.cs",
+              "RelativeToolTip": "clsDBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:04:33.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsSessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsSessionInfo.cs",
+              "RelativeDocumentMoniker": "clsSessionInfo.cs",
+              "ToolTip": "C:\\Users\\rdsims\\OneDrive - University of South Carolina\\Desktop\\b321finalproject\\AppointmentSchedulerApp\\clsSessionInfo.cs",
+              "RelativeToolTip": "clsSessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:01:03.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
